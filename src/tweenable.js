@@ -1,5 +1,4 @@
 import * as easingFunctions from './easing-functions'
-import './token'
 /** @typedef {import("./index").shifty.filter} shifty.filter */
 /** @typedef {import("./index").shifty.tweenConfig} shifty.tweenConfig */
 /** @typedef {import("./index").shifty.scheduleFunction} shifty.scheduleFunction */
